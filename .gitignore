@@ -1,11 +1,18 @@
 images/
+testfiles/
+for_testing/
 laiiqautilities_win64_autoreflow.mlapp
 laiiqautilities_win64_backup.mlapp
 splash - copia.png
 splash.svg
 test.m
-testfiles/
 test.txt
 test.xlsx
 test.mat
 test.csv
+readme.txt
+release.md
+laiiqautilities_win64_v3.0.0_installer.exe
+laiiqautilities_win64_v3.0.0_installer.zip
+for_redistribution_files_only/
+PackagingLog.html
