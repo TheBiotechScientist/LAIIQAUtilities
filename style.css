@@ -40,7 +40,7 @@ p{
     /* margin: 2.5%; */
     /* flex-grow: 1; */
     /* padding-top: 20px; */
-    border: 1px solid #ffff
+    /* border: 1px solid #ffff */
 }
 
 .icons{
@@ -52,13 +52,13 @@ p{
     margin: 10px;
     /* width: 25%; */
     /* height: 100px; */
-    border: 1px solid #ffff;
+    /* border: 1px solid #ffff; */
 }
 
 .div{
-    border:1px solid #ffff;
+    /* border:1px solid #ffff; */
     height:500px;
-    width: 600px;
+    width: 500px;
     /* display: flex; */
     /* align-items: center; */
     /* justify-content: flex-start; */
@@ -67,7 +67,7 @@ p{
 
 
 .divs{
-    border:1px solid #ffff;
+    /* border:1px solid #ffff; */
     /* height:150px; */
     display: flex;
     align-items: center;
@@ -76,5 +76,5 @@ p{
 }
 
 img{
-    width: 50px
+    width: 40px
 }
