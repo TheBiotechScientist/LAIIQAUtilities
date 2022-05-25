@@ -5,10 +5,9 @@ Aplicación de escritorio elaborada para el _Laboratorio de Investigación en In
 ----------------
 Descarga de [Release](https://github.com/TheBiotechScientist/LAIIQAUtilities/releases)
 
-## Instrucciones de uso
-### 1. Instalación
-### 2. Cinética de Ozonización
-### 3. Ozonograma
-### 4. Espectros UV-Vis
-### 5. Biorreacción
-### 6. Reporte
+## 1. Instalación
+## 2. Cinética de Ozonización
+## 3. Ozonograma
+## 4. Espectros UV-Vis
+## 5. Biorreacción
+## 6. Reporte
