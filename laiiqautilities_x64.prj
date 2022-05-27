@@ -1,6 +1,6 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration build-checksum="1984455406" file="C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities\laiiqalabutilities_win64.prj" location="C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities" name="laiiqalabutilities_win64" preferred-package-location="C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
-    <param.appname>LAIIQA_Utilities</param.appname>
+  <configuration build-checksum="3003025273" file="C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities\laiiqautilities_x64.prj" location="C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities" name="laiiqautilities_x64" preferred-package-location="C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>LAIIQAUtilities</param.appname>
     <param.icon />
     <param.icons />
     <param.version>3.0</param.version>
@@ -11,7 +11,7 @@
     <param.description />
     <param.screenshot>${PROJECT_ROOT}\splash.png</param.screenshot>
     <param.guid />
-    <param.installpath.string>\LAIIQA_Utilities\</param.installpath.string>
+    <param.installpath.string>\LAIIQAUtilities\</param.installpath.string>
     <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
     <param.logo />
     <param.install.notes />
@@ -28,7 +28,7 @@
     <param.package.mcr>true</param.package.mcr>
     <param.no.mcr>false</param.no.mcr>
     <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
-    <param.package.mcr.name>laiiqautilities_win64_v3.0.1_installer</param.package.mcr.name>
+    <param.package.mcr.name>laiiqautilities_win64_v3.0.0_installer</param.package.mcr.name>
     <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
     <param.windows.command.prompt>true</param.windows.command.prompt>
     <param.create.log>false</param.create.log>
@@ -70,14 +70,11 @@
       <param.example />
     </unset>
     <fileset.main>
-      <file>${PROJECT_ROOT}\laiiqautilities_win64.mlapp</file>
+      <file>${PROJECT_ROOT}\laiiqautilities_x64.mlapp</file>
     </fileset.main>
     <fileset.resources>
-      <file>${PROJECT_ROOT}\about.html</file>
-      <file>${PROJECT_ROOT}\instructions.html</file>
-      <file>${PROJECT_ROOT}\logo.html</file>
-      <file>${PROJECT_ROOT}\style.css</file>
-      <file>${PROJECT_ROOT}\style2.css</file>
+      <file>${PROJECT_ROOT}\html</file>
+      <file>${PROJECT_ROOT}\splash.png</file>
     </fileset.resources>
     <fileset.package />
     <fileset.depfun>
@@ -85,7 +82,7 @@
     </fileset.depfun>
     <build-deliverables>
       <file location="${PROJECT_ROOT}\for_testing" name="splash.png" optional="false">C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities\for_testing\splash.png</file>
-      <file location="${PROJECT_ROOT}\for_testing" name="LAIIQA_Utilities.exe" optional="false">C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities\for_testing\LAIIQA_Utilities.exe</file>
+      <file location="${PROJECT_ROOT}\for_testing" name="LAIIQAUtilities.exe" optional="false">C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities\for_testing\LAIIQAUtilities.exe</file>
       <file location="${PROJECT_ROOT}\for_testing" name="readme.txt" optional="true">C:\Users\javne\Google Drive\MisProyectos\LAIIQAUtilities\for_testing\readme.txt</file>
     </build-deliverables>
     <workflow />
