@@ -5,10 +5,10 @@ Aplicación de escritorio elaborada para el _Laboratorio de Investigación en In
 ----------------
 ## Instalación
 #### Windows
-1. Descargar el instalador (laiiqautilities_win64_v3.0.0_installer.zip) desde [Releases](https://github.com/TheBiotechScientist/LAIIQAUtilities/releases), versión v3.0.0-alpha
-2. Instalar la aplicación
+1. Descargar el instalador. [laiiqautilities_win64_v3.0.0_installer.zip](https://drive.google.com/file/d/1RkkcugT5-U5IgeWJEBD0l3kfMum_g53w/view?usp=sharing) desde **Google Drive**.
+2. Instalar la aplicación.
 3. Descargar el update más resiente desde [Releases](https://github.com/TheBiotechScientist/LAIIQAUtilities/releases)
-4. Sustituir el archivo ejecutable en la ruta de instalación (dentro de la carpeta _app_) con el update
+4. Sustituir el archivo ejecutable (``LAIIQAUtilities.exe``) en la ruta de instalación (por lo general estaría en   ``C:\Program Files\LAIIQAUtilities\application``) con el update.
 
 #### Linux
 #### Mac
